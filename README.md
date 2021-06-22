@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11philip22&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=5&hide=php,html,JavaScript,C#)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=5&hide=php,html,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
