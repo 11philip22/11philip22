@@ -1,6 +1,6 @@
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
+![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
+![image]({https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white})
 
 How do i align this?  
 
