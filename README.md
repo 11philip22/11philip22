@@ -13,7 +13,6 @@ How do i align this?
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![image](https://komarev.com/ghpvc/?username=11philip22&label=Profile%20views&color=ff4d00&style=flat)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11philip22&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=8&hide=php,html,JavaScript,VBScript,CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
