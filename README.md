@@ -15,12 +15,24 @@ How do i align this?
 ![image](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11philip22&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=8&hide=php,html,JavaScript,VBScript,CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/11philip22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=11philip22&theme=react&count_private=true" alt="11philip22's GitHub Stats" />
+</a>
+
+<a href="https://github.com/11philip22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=8&hide=php,html,JavaScript,VBScript,CSS&layout=compact" />
+</a>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11philip22&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=8&hide=php,html,JavaScript,VBScript,CSS&layout=compact&line_height=36)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- 
+![image]() 
+-->
 
 <!--
 **11philip22/11philip22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image]()
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
