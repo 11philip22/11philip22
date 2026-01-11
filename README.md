@@ -17,11 +17,11 @@ How do i align this?
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <a href="https://github.com/11philip22">
-  <img align="center" src="https://github-readme-stats-dsq4ovf6k-philips-projects-0779f8ef.vercel.app/api?username=11philip22&theme=react&count_private=true" alt="11philip22's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-eight-indol-96.vercel.app/api?username=11philip22&theme=react&count_private=true" alt="11philip22's GitHub Stats" />
 </a>
 
 <a href="https://github.com/11philip22">
-  <img align="center" src="https://github-readme-stats-dsq4ovf6k-philips-projects-0779f8ef.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=8&hide=php,html,JavaScript,VBScript,CSS,C%23,Perl,Roff,Scheme&layout=compact" />
+  <img align="center" src="https://github-readme-stats-eight-indol-96.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=8&hide=php,html,JavaScript,VBScript,CSS,C%23,Perl,Roff,Scheme&layout=compact" />
 </a>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11philip22&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
