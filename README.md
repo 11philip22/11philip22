@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/11philip22">
-  <img align="center" src="https://github-readme-stats-eight-indol-96.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=8&hide=php,html,JavaScript,VBScript,CSS,C%23,Perl,Roff,CMake,Scheme&layout=compact" />
+  <img align="center" src="https://github-readme-stats-eight-indol-96.vercel.app/api/top-langs/?username=11philip22&theme=react&langs_count=8&hide=php,html,VBScript,CSS,C%23,Perl,Roff,CMake,Scheme&layout=compact" />
 </a>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11philip22&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
