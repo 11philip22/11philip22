@@ -33,6 +33,7 @@ Here are some libraries that I have build that might be useful for you:
 #### File Sharing
 - [cyberdrop-rs](https://github.com/11philip22/cyberdrop-rs)
 - [mega-download](https://github.com/11philip22/mega-download)
+- [mega-up](https://github.com/11philip22/mega-up)
 
 ---
 
