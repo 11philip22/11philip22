@@ -20,10 +20,10 @@ This is what I use to do my thing:
 </p>
 
 I have a big passion for automating complex processes, low level stuff and reverse engineering websites and their internal api's :)  
-Here are some libraries that I have build that might be useful for you:
+Here are some projects that I have build that might be useful for you:
 
-- [gemini-chat-api-rs](https://github.com/11philip22/gemini-chat-api-rs)
 - [ytmusicapi-rs](https://github.com/11philip22/ytmusicapi-rs)
+- [nu.nl private api](https://github.com/11philip22/nu-private-api)
 
 #### Temporary Email
 - [guerrillamail-client-rs](https://github.com/11philip22/guerrillamail-client-rs)
@@ -34,6 +34,10 @@ Here are some libraries that I have build that might be useful for you:
 - [cyberdrop-rs](https://github.com/11philip22/cyberdrop-rs)
 - [mega-download](https://github.com/11philip22/mega-download)
 - [mega-up](https://github.com/11philip22/mega-up)
+
+#### AI Stuff
+- [gemini-chat-api-rs](https://github.com/11philip22/gemini-chat-api-rs)
+- [smolagents-codex](https://github.com/11philip22/smolagents-codex)
 
 ---
 
