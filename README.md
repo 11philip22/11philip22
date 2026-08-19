@@ -44,7 +44,7 @@ Here are some projects that I have build that might be useful for you:
 
 <p>
   <a href="https://github.com/11philip22">
-    <img src="https://github-readme-stats-eight-indol-96.vercel.app/api?username=11philip22&theme=react&count_private=true"
+    <img src="https://github-stats-extended.vercel.app/api?username=11philip22&theme=react&count_private=true"
          height="165" />
   </a>
   <a href="https://github.com/11philip22">
