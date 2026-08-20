@@ -20,8 +20,8 @@ This is what I use to do my thing:
   <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" />
 </p>
 
-I have a big passion for automating complex processes, low level stuff and reverse engineering websites and their internal api's :)  
-Here are some libraries that I have build that might be useful for you:
+I have a big passion for automating complex processes, low level stuff and reverse engineering websites and their internal APIs :)  
+Here are some libraries I've built that might be useful for you:
 
 - [ytmusicapi-rs](https://github.com/11philip22/ytmusicapi-rs)
 - [nu.nl private api](https://github.com/11philip22/nu-private-api)
