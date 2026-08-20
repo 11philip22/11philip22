@@ -25,13 +25,13 @@ Here are some libraries that I have build that might be useful for you:
 
 - [ytmusicapi-rs](https://github.com/11philip22/ytmusicapi-rs)
 - [nu.nl private api](https://github.com/11philip22/nu-private-api)
+- [nos-private-api](https://github.com/11philip22/nos-private-api)
+- [reuters-private-api](https://github.com/11philip22/reuters-private-api)
 - [guerrillamail-client-rs](https://github.com/11philip22/guerrillamail-client-rs)
 - [guerrillamail-client-cpp](https://github.com/11philip22/guerrillamail-client-cpp)
-- [yopmail-client-rs](https://github.com/11philip22/yopmail-client-rs)
 - [cyberdrop-rs](https://github.com/11philip22/cyberdrop-rs)
 - [mega-download](https://github.com/11philip22/mega-download)
 - [mega-up](https://github.com/11philip22/mega-up)
-- [gemini-chat-api-rs](https://github.com/11philip22/gemini-chat-api-rs)
 - [smolagents-codex](https://github.com/11philip22/smolagents-codex)
 
 ---
